@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.item1{
+	order:2;
+}
+.item2{
+	order:3;
+}
+.item3{
+	order:1;
+}
